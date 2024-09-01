@@ -14,7 +14,7 @@
 - [Custom chart](https://stackblitz.com/github/apertureless/vue-chartjs/tree/main/sandboxes/custom)
 - [Events](https://stackblitz.com/github/apertureless/vue-chartjs/tree/main/sandboxes/events)
 
-## Vue 2 charts (vue-chartjs v4)
+## Vue 2 charts (vue chartjs v4)
 
 - [Bar](https://codesandbox.io/s/github/apertureless/vue-chartjs/tree/v4/legacy/sandboxes/bar)
 - [Bubble](https://codesandbox.io/s/github/apertureless/vue-chartjs/tree/v4/legacy/sandboxes/bubble)
